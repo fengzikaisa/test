@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-koans-master.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-koans-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-koans-master_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-koans-master_main.iml" group="kotlin-koans-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-koans-master_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-koans-master_test.iml" group="kotlin-koans-master" />
+    </modules>
+  </component>
+</project>
